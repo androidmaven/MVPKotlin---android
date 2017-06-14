@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidMVPKotlin</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+</resources>
